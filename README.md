@@ -8,7 +8,7 @@ composer require huanyq2008/querylist-ext-phantomjs
 ```
 
 # querylist-ext-phantomjs 使用
-下面演示`QueryList`用一句代码采集百度搜索结果：
+下面演示`QueryList`用一句代码采集页面信息：
 ```php
 $urlarr = [
     'https://mimvp.com',  // 默认 utf-8
