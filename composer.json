@@ -1,5 +1,5 @@
 {
-	"name" : "huanyq2008/querylist-ext-phantomjs",
+	"name" : "yqcode/querylist-ext-phantomjs",
 	"description" : "QueryList V3 Plugin: Use PhantomJS to crawl Javascript dynamically rendered pages.(headless WebKit )",
 	"type" : "library",
 	"license" : "MIT",
